@@ -2,7 +2,6 @@
 This is a CNN for Polarimetric SAR Image Classification
 
 
-
 ## datasets
 
 The original datasets can be downloaded from [here](https://earth.esa.int/web/polsarpro/data-sources/sample-datasets).
